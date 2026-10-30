@@ -1,0 +1,16 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# Logisim 备份文件
+*.bak
+*.circ.bak
+*.autosave
+~*.circ
+
+# IDE
+.idea/
+.vscode/
